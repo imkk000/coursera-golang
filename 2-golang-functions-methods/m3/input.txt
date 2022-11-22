@@ -1,0 +1,10 @@
+cow eat
+cow move
+cow speak
+bird eat
+bird move
+bird speak
+snake eat
+snake move
+snake speak
+x x
