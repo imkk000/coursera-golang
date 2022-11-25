@@ -1,0 +1,14 @@
+newanimal bob cow
+newanimal alice snake
+newanimal lisa bird
+query bob eat
+query bob move
+query bob speak
+query alice eat
+query alice move
+query alice speak
+query lisa eat
+query lisa move
+query lisa speak
+x
+
